@@ -1,4 +1,4 @@
-# Max Fibonacci number in under second
+# Max Fibonacci number in under a second
 
 Fun project inspired by [Sheafification of G](https://youtube.com/@sheafificationofg).
 
@@ -10,11 +10,11 @@ Currently implemented algorithms are linear and matrix exponentiation ones.
 
 To build them, run
 ```
-  make linear
+make linear
 ```
 and
 ```
-  make matexp
+make matexp
 ```
 respectively.
 
